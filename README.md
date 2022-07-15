@@ -10,7 +10,7 @@ Hey 👋, here is `XXiaoA` who is just a ordinary middle school student with a h
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Use Github Action to Build Blog](https://xxiaoa.github.io/2022/07/use-github-action-to-build-blog/)
+- [使用GitHub action自动部署博客](https://xxiaoa.github.io/2022/07/use-github-action-to-build-blog/)
 - [中考加油](https://xxiaoa.github.io/2022/06/%E4%B8%AD%E8%80%83%E5%8A%A0%E6%B2%B9/)
 - [yt-dlp: an Awesome Videos Downloader](https://xxiaoa.github.io/2022/06/yt-dlp-an-awesome-videos-downloader/)
 - [Find the Create Date of GitHub Repo](https://xxiaoa.github.io/2022/06/find-the-create-date-of-github-repo/)
