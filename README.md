@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/linux%20-%23007ACC.svg?&style=for-the-badge&logo=linux&logoColor=white "/>
+<img src="https://img.shields.io/badge/linux-%23007ACC.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ![XXiaoA's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXiaoA&count_private=true&show_icons=true)
