@@ -1,9 +1,17 @@
-# XXiaoA
+# Hey👋, I'm <code>XXiaoA</code>
+> a ordinary middle school student that loves <b>programming</b>.🌟
 <div align="center">
 <img height="150" src="https://s2.loli.net/2022/02/13/LQZurKxEpmwolbD.jpg" />
-<p>Hey 👋, here is <code>XXiaoA</code> who is just a ordinary middle school student with a heart, that loves both <b>life</b> and <b>programming</b>.🌟</p>
+<p> </p>
 </div>
 
+<p align="center">
+<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/linux%20-%23007ACC.svg?&style=for-the-badge&logo=linux&logoColor=white "/>
+</p>
 
 ![XXiaoA's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXiaoA&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaoa&layout=compact&exclude_repo=XXiaoA.github.io)](https://github.com/anuraghazra/github-readme-stats)
