@@ -1,9 +1,9 @@
 # XXiaoA
 <div align="center">
 <img height="150" src="https://s2.loli.net/2022/02/13/LQZurKxEpmwolbD.jpg" />
+<p>Hey 👋, here is <code>XXiaoA</code> who is just a ordinary middle school student with a heart, that loves both <b>life</b> and <b>programming</b>.🌟</p>
 </div>
 
-Hey 👋, here is `XXiaoA` who is just a ordinary middle school student with a heart, that loves both **life** and **programming**.🌟
 
 ![XXiaoA's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXiaoA&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaoa&layout=compact&exclude_repo=XXiaoA.github.io)](https://github.com/anuraghazra/github-readme-stats)
