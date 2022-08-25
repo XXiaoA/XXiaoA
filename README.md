@@ -18,11 +18,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Read Yaml File in Rust](https://xxiaoa.github.io/read-yaml-file-in-rust/)
 - [Practical FFmpeg Commands](https://xxiaoa.github.io/practical-ffmpeg-commands/)
 - [Zoxide: String Match Unknown Option &#39;--Groups-Only&#39; on Fish](https://xxiaoa.github.io/zoxide-string-match-unknown-option--groups-only-on-fish/)
 - [美化 Gnome 桌面](https://xxiaoa.github.io/make-gnome-desktop-more-beautiful/)
 - [使用GitHub action自动部署博客](https://xxiaoa.github.io/use-github-action-to-build-blog/)
-- [中考加油](https://xxiaoa.github.io/%E4%B8%AD%E8%80%83%E5%8A%A0%E6%B2%B9/)
 <!-- BLOG-POST-LIST:END -->
 
 [**Go to See More**](http://XXiaoA.github.io)
