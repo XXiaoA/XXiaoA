@@ -11,10 +11,12 @@
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/linux-%23007ACC.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
 
-![XXiaoA's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXiaoA&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaoa&layout=compact&exclude_repo=XXiaoA.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<table><tr>
+<td><img src=https://github-readme-stats.vercel.app/api?username=XXiaoA&count_private=true&show_icons=true border=0 width="470"></td>
+<td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaoa&layout=compact&exclude_repo=XXiaoA.github.io border=0 width="400"></td>
+</tr></table>
+</p>
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
