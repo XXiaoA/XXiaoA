@@ -20,11 +20,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Telegram Use User Fonts](https://xxiaoa.github.io/make-telegram-use-user-fonts/)
 - [Clash 魔法教学](https://xxiaoa.github.io/clash-%E9%AD%94%E6%B3%95%E6%95%99%E5%AD%A6/)
 - [Read Yaml File in Rust](https://xxiaoa.github.io/read-yaml-file-in-rust/)
 - [Practical FFmpeg Commands](https://xxiaoa.github.io/practical-ffmpeg-commands/)
 - [Zoxide: String Match Unknown Option &#39;--Groups-Only&#39; on Fish](https://xxiaoa.github.io/zoxide-string-match-unknown-option--groups-only-on-fish/)
-- [美化 Gnome 桌面](https://xxiaoa.github.io/make-gnome-desktop-more-beautiful/)
 <!-- BLOG-POST-LIST:END -->
 
 [**Go to See More**](http://XXiaoA.github.io)
