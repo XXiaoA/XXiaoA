@@ -24,7 +24,7 @@
 - [Make Telegram Use User Fonts](https://xxiaoa.github.io/posts/b85da6b6/)
 - [Clash 魔法教学](https://xxiaoa.github.io/posts/44a995c1/)
 - [Read Yaml File in Rust](https://xxiaoa.github.io/posts/d42e5e77/)
-- [Practical FFmpeg Commands](https://xxiaoa.github.io/posts/e59b8293/)
+- [Zoxide: String Match Unknown Option &#39;--Groups-Only&#39; on Fish](https://xxiaoa.github.io/posts/dffe87b4/)
 <!-- BLOG-POST-LIST:END -->
 
 [**Go to See More**](http://XXiaoA.github.io)
