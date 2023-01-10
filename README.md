@@ -20,11 +20,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [我的2022](https://xxiaoa.github.io/posts/82a368dd/)
 - [Create an Auto-Save Script With Delay Feature](https://xxiaoa.github.io/posts/15210477/)
 - [Make Telegram Use User Fonts](https://xxiaoa.github.io/posts/b85da6b6/)
 - [Clash 魔法教学](https://xxiaoa.github.io/posts/44a995c1/)
 - [Read Yaml File in Rust](https://xxiaoa.github.io/posts/d42e5e77/)
-- [Zoxide: String Match Unknown Option &#39;--Groups-Only&#39; on Fish](https://xxiaoa.github.io/posts/dffe87b4/)
 <!-- BLOG-POST-LIST:END -->
 
 [**Go to See More**](http://XXiaoA.github.io)
