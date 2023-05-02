@@ -20,11 +20,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nvim: Error While Loading Shared Libraries: /usr/lib/lua/5.1/lpeg.so: Cannot Open Shared Object File: No Such File or Directory](https://xxiaoa.github.io/posts/405d6517/)
 - [为 Arch 安装并配置 Bspwm 环境](https://xxiaoa.github.io/posts/d466bea3/)
 - [记一次安装 Arch Linux](https://xxiaoa.github.io/posts/45550377/)
 - [我的2022](https://xxiaoa.github.io/posts/82a368dd/)
 - [Create an Auto-Save Script With Delay Feature](https://xxiaoa.github.io/posts/15210477/)
-- [Make Telegram Use User Fonts](https://xxiaoa.github.io/posts/b85da6b6/)
 <!-- BLOG-POST-LIST:END -->
 
 [**Go to See More**](http://XXiaoA.github.io)
