@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/linux-%23007ACC.svg?&style=for-the-badge&logo=linux&color=FCC624&logoColor=black"/>
 
 <table><tr>
-<td><img src=https://github-readme-stats.vercel.app/api?username=XXiaoA&count_private=true&show_icons=true border=0 width="470"></td>
-<td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaoa&layout=compact&exclude_repo=XXiaoA.github.io border=0 width="400"></td>
+<td><img src=https://github-readme-stats.vercel.app/api?username=XXiaoA&count_private=true&theme=transparent&show_icons=true border=0 width="470"></td>
+<td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaoa&layout=compact&theme=transparent&exclude_repo=XXiaoA.github.io border=0 width="400"></td>
 </tr></table>
 </p>
 
