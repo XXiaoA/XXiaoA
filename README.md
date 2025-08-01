@@ -1,5 +1,5 @@
 # Hey👋, I'm <code>XXiaoA</code>
-> an ordinary senior high school student who loves <b>programming</b>.🌟
+
 <div align="center">
 <img height="150" src="https://s2.loli.net/2022/02/13/LQZurKxEpmwolbD.jpg" />
 <p> </p>
