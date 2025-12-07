@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/linux-%23007ACC.svg?&style=for-the-badge&logo=linux&color=FCC624&logoColor=black"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XXiaoA&count_private=true&theme=transparent&show_icons=true" />
-</p>
-
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Nvim: Error While Loading Shared Libraries: /usr/lib/lua/5.1/lpeg.so: Cannot Open Shared Object File: No Such File or Directory](https://xxiaoa.github.io/posts/405d6517/)
