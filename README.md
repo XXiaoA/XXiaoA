@@ -14,11 +14,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [修复 Shift-Tab 映射失败问题（Fcitx5-Rime / Noctalia 为例）](https://xxiaoa.github.io/posts/4a1cf4fc/)
 - [MATLAB Installation and Setup on Arch Linux](https://xxiaoa.github.io/posts/4964769d/)
 - [Nvim: Error While Loading Shared Libraries: /usr/lib/lua/5.1/lpeg.so: Cannot Open Shared Object File: No Such File or Directory](https://xxiaoa.github.io/posts/405d6517/)
 - [为 Arch 安装并配置 Bspwm 环境](https://xxiaoa.github.io/posts/d466bea3/)
 - [记一次安装 Arch Linux](https://xxiaoa.github.io/posts/45550377/)
-- [我的2022](https://xxiaoa.github.io/posts/82a368dd/)
 <!-- BLOG-POST-LIST:END -->
 
 [**Go to See More**](http://XXiaoA.github.io)
